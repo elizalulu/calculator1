@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: left;
+}
+
+body{
+    background-color: cadetblue;
+}
+
+.result{
+    background-color: antiquewhite;
+}
+
